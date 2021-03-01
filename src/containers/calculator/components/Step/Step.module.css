@@ -1,0 +1,15 @@
+.option a{
+  color: green;
+}
+
+.x {
+  padding-top: 8px;
+}
+
+.flex {
+  display: flex;
+}
+
+.rightButton {
+  margin-left: 5px;
+}

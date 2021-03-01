@@ -1,0 +1,11 @@
+.status {
+  text-align: center;
+}
+
+.success {
+  color: darkblue;
+}
+
+.error {
+  color: darkred;
+}

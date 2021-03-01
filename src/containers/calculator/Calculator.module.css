@@ -1,0 +1,44 @@
+.root {
+    margin: 0 auto;
+    height: 400px;
+    width: 450px;
+    margin-top: 100px;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.header {
+    line-height: 60px;
+    color: gray;
+}
+
+.rootin {
+    width: 340px;
+    border: 1px solid #282c34;
+    margin: 0 auto;
+}
+.home {
+    text-align: left;
+    padding: 15px 25px;
+}
+
+.option a{
+    color: green;
+}
+
+.title {
+    color: darkblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: gainsboro;
+}
+
+.x {
+    padding-top: 8px;
+}
+
+.flex {
+    display: flex;
+}
